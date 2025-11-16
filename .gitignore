@@ -1,4 +1,3 @@
-README.md
 vagrant/Vagrantfile
 vagrant/.vagrant/machines/rocky_vm_1/virtualbox/action_cloud_init
 vagrant/.vagrant/machines/rocky_vm_1/virtualbox/action_provision

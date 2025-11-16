@@ -1,0 +1,16 @@
+README.md
+vagrant/Vagrantfile
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/action_cloud_init
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/action_provision
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/action_set_name
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/box_meta
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/creator_uid
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/disk_meta
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/id
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/index_uuid
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/private_key
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/vagrant_cwd
+vagrant/.vagrant/machines/rocky_vm_1/virtualbox/synced_folders
+vagrant/.vagrant/machines/rocky_vm_2/virtualbox/vagrant_cwd
+vagrant/.vagrant/machines/rocky_vm_3/virtualbox/vagrant_cwd
+vagrant/.vagrant/rgloader/loader.rb
